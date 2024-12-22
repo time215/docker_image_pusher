@@ -5,4 +5,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 homeassistant/home-assistant:2025.1.0.dev202412220232
-
+homeassistant/home-assistant:dev
